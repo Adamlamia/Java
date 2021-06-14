@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Question1",
+            "request": "launch",
+            "mainClass": "Test17202726.Question1",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Question3",
+            "request": "launch",
+            "mainClass": "Test17202726.Question3",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab1",
+            "request": "launch",
+            "mainClass": "Lab3.Lab1",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "BreadthFirstSearch.Main",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch GeometricObjectTest",
+            "request": "launch",
+            "mainClass": "Geometric.GeometricObjectTest",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch spinningDonut",
+            "request": "launch",
+            "mainClass": "Playing.spinningDonut",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Playing.Main",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritTest",
+            "request": "launch",
+            "mainClass": "inheritTest",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch classes",
+            "request": "launch",
+            "mainClass": "classes",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayList",
+            "request": "launch",
+            "mainClass": "arrayList",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch bigClass",
+            "request": "launch",
+            "mainClass": "bigClass",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch breakVsContinue",
+            "request": "launch",
+            "mainClass": "breakVsContinue",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch dataType",
+            "request": "launch",
+            "mainClass": "dataType",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch doWhileLoop",
+            "request": "launch",
+            "mainClass": "doWhileLoop",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch genericMethod",
+            "request": "launch",
+            "mainClass": "genericMethod",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertDelete",
+            "request": "launch",
+            "mainClass": "insertDelete",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch label",
+            "request": "launch",
+            "mainClass": "label",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch linearSearch",
+            "request": "launch",
+            "mainClass": "linearSearch",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist.linkedlist",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch method",
+            "request": "launch",
+            "mainClass": "method",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch numericMethod",
+            "request": "launch",
+            "mainClass": "numericMethod",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch readFromTextFile",
+            "request": "launch",
+            "mainClass": "readFromTextFile",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch scanner",
+            "request": "launch",
+            "mainClass": "scanner",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchArrayForLoop",
+            "request": "launch",
+            "mainClass": "searchArrayForLoop",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringDataType",
+            "request": "launch",
+            "mainClass": "stringDataType",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchMethod",
+            "request": "launch",
+            "mainClass": "switchMethod",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tease",
+            "request": "launch",
+            "mainClass": "tease",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch threeDArray",
+            "request": "launch",
+            "mainClass": "threeDArray",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch twoDArray",
+            "request": "launch",
+            "mainClass": "twoDArray",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch whileLoop",
+            "request": "launch",
+            "mainClass": "whileLoop",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch writeReadToBinaryFile",
+            "request": "launch",
+            "mainClass": "writeReadToBinaryFile",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch writeToTextFile",
+            "request": "launch",
+            "mainClass": "writeToTextFile",
+            "projectName": "Java_2382101d"
+        }
+    ]
+}
