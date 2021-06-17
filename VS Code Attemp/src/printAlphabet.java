@@ -9,8 +9,8 @@ public class printAlphabet {
             System.out.println();
         }
         
-        for (int i = 33; i < 127; i++) {
-            System.out.println("ASCII value of " + (char)i + " = " + i);
+        for (int i = 33; i < 127; i++) { //asci code from 33 to 126 are visible
+            System.out.println("ASCII value of " + (char)i + " = " + i); 
         }
     }
 }
