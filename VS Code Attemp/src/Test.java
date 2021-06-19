@@ -11,10 +11,9 @@ public class Test {
         if (result == -1) 
             System.out.println("Element not present"); 
         else
-            System.out.println("Element found at "
-                               + "index " + result); 
+            System.out.println("Element found at " + "index " + result); 
     }
-    int binarySearch(int arr[], int x) 
+    public int binarySearch(int arr[], int x) 
     { 
         int l = 0, r = arr.length - 1; 
         while (l <= r) { 
