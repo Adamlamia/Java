@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Node",
+            "request": "launch",
+            "mainClass": "linkedlist.Node",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
             "name": "Launch Question1",
             "request": "launch",
             "mainClass": "Test17202726.Question1",
