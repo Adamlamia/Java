@@ -1,6 +1,27 @@
 package linkedlist;
 
 public class MyLinkedList<E> implements LinkedListInterface<E> {
+    
+    private Node<E> head, tail;
+    private int size;
+
+    public static void main(String[] args) {
+        MyLinkedList<String> list = new MyLinkedList<>();
+
+        list.addFirst("Nice");
+        list.addLast("Place");
+        //list.addLast("Innit");
+        //list.addLast("?");
+        //list.addFirst("What");
+        //list.addFirst("A");
+
+        MyLinkedList<String>.Node<String> current = list.head;
+
+        while (current != null) {
+            System.out.println(current.element);
+            current = current.next;
+        }
+    }
 
     private class Node<T> {
         private T element;
@@ -11,9 +32,6 @@ public class MyLinkedList<E> implements LinkedListInterface<E> {
             this.element = element;
         }
     }
-
-    private Node<E> head, tail;
-    private int size;
 
     @Override
     public void addFirst(E e) {
@@ -91,5 +109,17 @@ public class MyLinkedList<E> implements LinkedListInterface<E> {
             return temp.element;
         }
     }
+
+	@Override
+	public void add(int index, E e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public E remove(int index) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 }
