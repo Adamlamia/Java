@@ -23,11 +23,11 @@ public class MyLinkedList<E> implements LinkedListInterface<E> {
         }
     }
 
-    private class Node<T> {
-        private T element;
-        private Node<T> next = null;
+    private class Node<E> {
+        private E element;
+        private Node<E> next = null;
 
-        public Node(T element) {
+        public Node(E element) {
             this.next = null;
             this.element = element;
         }
