@@ -3,11 +3,24 @@ import java.util.EmptyStackException;
 
 public class Stack<T> {
     private ArrayList<T> list;
+    
+    public static void main(String[] args) {
+        Stack<Object> stack1 = new Stack<>();
+        Stack<String> postfix = new Stack<>();
+        
+        stack1.push("Shit");
+        stack1.push(1);
+        stack1.push('A');
+        stack1.push(1.53);
+        System.out.println(stack1.toString());
+        
+        postfix.push("4");
+    }
 
     public Stack() {
         list = new ArrayList<>();
     }
-
+    
     public void push(T insert) {
         list.add(insert);
     }
@@ -30,7 +43,7 @@ public class Stack<T> {
     }
 
     public T get(int index) {
-        return list.get(index);
+        return list.get(index - 1);
     }
 
     public int getSize() {
@@ -62,15 +75,4 @@ public class Stack<T> {
         return list.contains(object);
     }
 
-    public static void main(String[] args) {
-        Stack<Object> stack1 = new Stack<>();
-        stack1.push("Shit");
-        stack1.push(1);
-        stack1.push('A');
-        stack1.push(1.53);
-
-        System.out.println(stack1.toString());
-    }
-
-    
 }
