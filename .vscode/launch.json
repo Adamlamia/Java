@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PostfixEvaluation",
+            "request": "launch",
+            "mainClass": "PostfixEvaluation",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestQueue",
+            "request": "launch",
+            "mainClass": "TestQueue",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
             "name": "Launch MyLinkedList",
             "request": "launch",
             "mainClass": "linkedlist.MyLinkedList",
