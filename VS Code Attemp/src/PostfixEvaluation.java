@@ -4,6 +4,7 @@ public class PostfixEvaluation {
         System.out.println("2 3 + 4 * 5 - = " + evaluatePostfix("2 3 + 4 * 5 -"));
         
     }
+    
     public static double evaluatePostfix(String postfix) {
         Stack<Double> valueStack = new Stack<>();
         String[] tokens = postfix.split(" ");
