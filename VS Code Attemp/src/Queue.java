@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 
 public class Queue<E> {
-    private LinkedList<E> list = new LinkedList<>();
+    private LinkedList<E> list = new LinkedList<>(); //using linked list to make queue
 
     public void enqueue(E e) {
         list.addLast(e);
