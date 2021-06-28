@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Work\\Programming\\Java_FX\\javafx-sdk-16\\lib\\javafx.base.jar",
+        "d:\\Work\\Programming\\Java_FX\\javafx-sdk-16\\lib\\javafx.controls.jar",
+        "d:\\Work\\Programming\\Java_FX\\javafx-sdk-16\\lib\\javafx.fxml.jar",
+        "d:\\Work\\Programming\\Java_FX\\javafx-sdk-16\\lib\\javafx.graphics.jar",
+        "d:\\Work\\Programming\\Java_FX\\javafx-sdk-16\\lib\\javafx.media.jar",
+        "d:\\Work\\Programming\\Java_FX\\javafx-sdk-16\\lib\\javafx.swing.jar",
+        "d:\\Work\\Programming\\Java_FX\\javafx-sdk-16\\lib\\javafx.web.jar",
+        "d:\\Work\\Programming\\Java_FX\\javafx-sdk-16\\lib\\javafx-swt.jar"
+    ]
+}
