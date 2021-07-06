@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch testShape",
+            "request": "launch",
+            "mainClass": "Practice.L4Polymorphism.testShape",
+            "projectName": "Java_2382101d"
+        },
+        {
+            "type": "java",
             "name": "Launch PrintPages",
             "request": "launch",
             "mainClass": "FinalDS.PrintPages",
